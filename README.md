@@ -1,6 +1,8 @@
-<h1 align="center">Hi at all 👋👋👋, I'm Tuan, Le Minh - International Duy Tan University</h1>
+<h1 align="center">Hi at all 👋👋👋, I'm Tuan Le Minh </h1>
+<h1 align="center">- Student at International Duy Tan University -</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LeMinhTuanK28&label=Profile%20views&color=0e75b6&style=flat" alt="LeMinhTuanK28" /> </p>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=LeMinhTuanK28&label=Profile%20views&color=0e75b6&style=flat" alt="LeMinhTuanK28" /> </p>
 - 👋 Hi, I’m @LeMinhTuanK28
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
