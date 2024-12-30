@@ -18,7 +18,7 @@
 - ⚡ Fun fact: **The First Computer Bug Was a Real Bug**
 
 <h3 align="center">Here's my contact, connect with me now:</h3>
-<p align="left">
+<p align="center">
 <a href="https://www.facebook.com/since1710lq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/since1710lq" height="30" width="40" /><a/>
 <!---
 LeMinhTuanK28/LeMinhTuanK28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
