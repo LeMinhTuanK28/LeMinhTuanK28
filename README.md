@@ -27,5 +27,5 @@
 
 <h3 align="center">This's my ROADMAPS in order to become Frontend Developer and FOLLOW ME!</h3>
 <p align="center">
-  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/684eceb4368c556c65de6a05?variant=dark&roadmaps=frontend%2Cblockchain%2Creact%2Cnodejs" alt="roadmap.sh"/>      </a>
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/684eceb4368c556c65de6a05?variant=dark&roadmaps=frontend%3Fr%3Dfrontend-beginner%2Creact%2Cux-design%2Caws" alt="roadmap.sh"/></a>
 </p>
