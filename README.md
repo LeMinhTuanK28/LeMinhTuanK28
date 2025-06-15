@@ -24,7 +24,7 @@
   <a href="https://www.instagram.com/le.mingtuann_17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/le.mingtuann_17/" height="50" width="60" /></a>
 </p>
 
-<h3 align="center">My lobby:</h3>
+<h3 align="center">This's my ROADMAPS in order to become Frontend Developer and FOLLOW ME!</h3>
 <p align="center">
   <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/684eceb4368c556c65de6a05?variant=dark&roadmaps=frontend%2Cblockchain%2Creact%2Cnodejs" alt="roadmap.sh"/>      </a>
 </p>
