@@ -22,6 +22,7 @@
   <a href="https://www.facebook.com/since1710lq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/since1710lq" height="50" width="60" /><a/>
   <a href="https://www.linkedin.com/in/tuan-leminh-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tuan-leminh-dev/" height="50" width="60" /></a>
   <a href="https://www.instagram.com/le.mingtuann_17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/le.mingtuann_17/" height="50" width="60" /></a>
+  <a href="https://x.com/TunLMinh540568" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/TunLMinh540568" height="50" width="60" /></a>
 </p>
 
 <h3 align="center">This's my ROADMAPS in order to become Frontend Developer and FOLLOW ME!</h3>
